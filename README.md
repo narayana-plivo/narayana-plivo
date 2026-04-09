@@ -1,4 +1,4 @@
-# 👋 Hello, I'm narayana-plivo
+# 👋 Hello, I'm narayana
 
 Welcome to my GitHub! I'm passionate about building scalable applications with **Go** and **Python**.
 
